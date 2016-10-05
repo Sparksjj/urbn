@@ -35,6 +35,8 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 17px;
+	font-style: italic;
+	line-height: 22px;
 }
 #header .container > ul{
 	text-align: center;
@@ -53,7 +55,7 @@ body{
 	display: inline-block;
 	line-height: 60px;
 	background: #09b2c9 url(../img/apple.png) 30px 50% no-repeat;
-	font-size: 25px;
+	font-size: 24px;
 	padding-left: 45px;
 	color: #fff;
 	text-decoration: none;
@@ -73,16 +75,16 @@ body{
 	font-family: 'Lato', sans-serif;
 }
 #description .container > p{
-	font-size: 16px;
+	font-size: 18px;
 	color: #333;
 	font-style: italic;
-	font-weight: 100;
 	margin-bottom: 65px;
 }
 #description .container .description-wrapper{
 	width: 225px;
 	margin: 0 auto;
 	margin-top: 50px;
+	font-size: 16px;
 }
 #description .container .description-wrapper h4{
 	font-size: 25px;
@@ -180,11 +182,10 @@ body{
 	font-family: 'Lato', sans-serif;
 }
 #send-message p{
-font-size: 16px;
-    color: #333;
-    font-style: italic;
-    font-weight: 100;
-    margin-bottom: 65px;
+	font-size: 18px;
+	color: #333;
+	font-style: italic;
+	margin-bottom: 65px;
 }
 
 #send-message form{
