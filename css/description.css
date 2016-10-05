@@ -1,0 +1,83 @@
+/* description1 */
+#description1{
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+	font-size: 20px;
+	margin-top: 50px;
+}
+#description1 h3{
+	font-size: 22px;
+}
+#description1 .container div p{
+	padding-left: 100px;
+	background: url(../img/i.jpg) 0 50% no-repeat;
+	background-size: auto 50px;
+	margin-top: 30px
+}
+#description1 > .container > div:nth-child(4) p{
+	margin-top: 60px
+}
+#description1 > .container > div:nth-child(6) p{
+	background-image: url(../img/mission.jpg);
+}
+#description1 > .container > div:nth-child(8) p{
+	background-image: url(../img/slash.jpg);
+}
+
+/* description2 */
+#description2{
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	margin: 0;
+	margin-top: 50px;
+}
+#description2 p{
+	font-size: 16px;
+	margin: 0;
+	margin: 25px 0;
+	margin-left: -1em;
+}
+#description2 ol{
+	margin: 25px 0;
+	margin-left: -1em;
+}
+#description2 ol li{
+	font-size: 18px;
+}
+#description2 h3{
+	font-size: 15px;
+	margin: 0;
+	margin-top: 25px;
+	margin-left: -1em;
+}
+#description2 h3:first-child{
+	font-size: 18px;
+	margin-left: 0em;
+}
+#description2 span{
+	display: block;
+	font-size: 15px;
+	margin-top: 25px
+}
+
+/* description3 */
+#description3{
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin: 0;
+	margin-top: 50px;
+}
+#description3 p{
+	margin: 0;
+	margin: 25px 0;
+}
+#description3 h3{
+	font-weight: bold;
+	font-size: 20px;
+	margin: 0;
+	margin-top: 25px;
+}
+#description3 span{
+	display: block;
+	font-size: 16px;
+	margin-top: 25px
+}
